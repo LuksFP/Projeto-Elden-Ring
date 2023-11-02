@@ -11,7 +11,7 @@ button{background: black;
         background-size: cover;
         background-attachment: fixed;
         background-repeat: no-repeat; 
-        border: #AB966F;  
+          
     }
     #div2{background-color:rgba(0,0,0, 0.6);
         color: #AB966F;
@@ -51,14 +51,16 @@ button{background: black;
 #Godrickimage{display: flex;
     align-items: center;
     justify-content: center;
-    height: 80vh;}
+   margin-top: 50px;}
 #godrickaudio{display: flex;
     align-items: center;
     justify-content: center;
-    height: 12vh;}
+    margin-top: 12px;}
                    
-#txt2{text-align: center;}
+#txt2{text-align: center;
+    margin-top: 30px;}
 #hdg{text-align: center;
-font-size: 30px;}
+font-size: 30px;
+}
    
     
